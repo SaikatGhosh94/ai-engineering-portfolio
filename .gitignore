@@ -1,1 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+venv/
+.venv/
+
+# Jcripting
+.ipynb_checkpoints/
+
+# OS
 .DS_Store
