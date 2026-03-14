@@ -1,0 +1,14 @@
+{
+    "model": "LightGBM Regressor",
+    "hyperparameters": {
+        "learning_rate": 0.1,
+        "max_depth": 15,
+        "n_estimators": 150
+    },
+    "evaluation_date": "2026-03-14 20:41:32",
+    "n_samples": 182600,
+    "root mean squared error": 6.926630323936531,
+    "mean absolute error": 5.337796209177116,
+    "mean absolute percentage error": 0.14844586077752311,
+    "r2_score": 0.9253640098340908
+}

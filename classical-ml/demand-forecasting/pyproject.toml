@@ -1,0 +1,12 @@
+
+[project]
+name = "demand-forecasting"
+version = "0.1.0"
+authors = [
+    {name = "Saikat Ghosh", email = "official.ghosh.saikat@gmail.com"}
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
